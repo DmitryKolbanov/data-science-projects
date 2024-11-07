@@ -1,0 +1,31 @@
+,brand,price,years_in_operation,is_crashed,model,mileage,body_type,drive_type,fuel_type,engine_volume,transmission_type,power
+13721,Renault,1229900,13,False,Renault Duster,143300,внедорожник,полный,бензин,2.0,MT,135
+12437,Opel,381900,18,False,Opel Corsa,182000,хетчбэк,передний,бензин,1.0,MT,60
+17089,Volkswagen,5950000,2,False,Volkswagen Tayron X,18,внедорожник,полный,бензин,2.0,AMT,220
+16313,Volkswagen,2650000,13,False,Volkswagen Touareg,91200,внедорожник,полный,бензин,3.6,AT,249
+9553,Lexus,3500000,13,False,Lexus RX,97000,внедорожник,полный,гибрид,3.5,CVT,249
+12332,Opel,799000,12,False,Opel Meriva,173000,минивэн,передний,бензин,1.4,MT,100
+17923,ВАЗ (LADA),549000,14,False,ВАЗ (LADA) 2114 Samara,12000,хетчбэк,передний,бензин,1.6,MT,81
+11927,Nissan,1700000,6,False,Nissan Terrano,65834,внедорожник,полный,бензин,2.0,AT,143
+11443,Nissan,1500000,9,False,Nissan Qashqai,156000,внедорожник,передний,бензин,1.2,CVT,115
+20030,ВАЗ (LADA),770000,7,False,ВАЗ (LADA) 4x4 (Нива),62855,внедорожник,полный,бензин,1.7,MT,83
+9247,Land Rover,4150000,6,False,Land Rover Discovery Sport,45000,внедорожник,полный,дизель,2.0,AT,150
+8,Audi,8200000,3,False,Audi A6,20000,седан,полный,дизель,2.0,AMT,204
+14244,Skoda,502000,15,False,Skoda Fabia,151206,хетчбэк,передний,бензин,1.4,MT,86
+22651,ГАЗ,1140000,14,False,ГАЗ ГАЗель 33023,195000,фургон,задний,бензин,2.9,MT,107
+6529,Hyundai,3200000,8,False,Hyundai Grand Starex,202000,минивэн,полный,дизель,2.5,AT,145
+12977,Renault,990000,12,False,Renault Sandero Stepway,74497,хетчбэк,передний,бензин,1.6,AT,102
+22710,ГАЗ,197000,32,False,ГАЗ 310221 Волга,140000,универсал,задний,бензин,2.4,MT,90
+15057,Toyota,2750000,15,False,Toyota Land Cruiser Prado,184000,внедорожник,полный,дизель,3.0,AT,173
+2866,Chevrolet,689000,11,False,Chevrolet Niva,127500,внедорожник,полный,бензин,1.7,MT,80
+2670,Chevrolet,781000,12,False,Chevrolet Aveo,121000,седан,передний,бензин,1.6,MT,115
+11903,Nissan,1090000,12,False,Nissan Qashqai,210000,внедорожник,передний,бензин,1.6,MT,114
+2029,Chevrolet,670000,13,False,Chevrolet Cruze,276000,седан,передний,бензин,1.8,MT,141
+6118,Hyundai,2100000,13,False,Hyundai Santa Fe,107000,внедорожник,полный,дизель,2.2,AT,197
+22537,ГАЗ,270000,29,False,ГАЗ ГАЗель 3302,400000,фургон,задний,бензин,2.4,MT,100
+18607,ВАЗ (LADA),250000,17,False,ВАЗ (LADA) Priora,113000,седан,передний,бензин,1.6,MT,98
+12529,Peugeot,2450000,6,False,Peugeot Traveller,255000,минивэн,передний,дизель,2.0,AT,150
+13775,Renault,695000,15,False,Renault Fluence,239000,седан,передний,бензин,2.0,CVT,138
+9069,Kia,879990,10,False,Kia Rio,126882,седан,передний,бензин,1.4,MT,107
+3416,Ford,995000,9,False,Ford Fiesta,102000,седан,передний,бензин,1.6,AMT,105
+6762,Hyundai,755000,15,False,Hyundai Elantra,208000,седан,передний,бензин,1.6,MT,122
